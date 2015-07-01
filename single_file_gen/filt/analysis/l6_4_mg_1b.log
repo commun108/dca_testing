@@ -1,0 +1,50 @@
+================ SLOPE =================
+# Measurements: 1420
+# Remaining measurements: 1117
+# Measurements filtered: 303
+Percentage filtered: 21.34
+================ NEGCHA ================
+# Measurements: 1117
+# Remaining measurements: 1100
+# Measurements filtered: 17
+Percentage filtered: 1.52
+=============== MEANRMS ================
+# Measurements: 1100
+# Remaining measurements: 1096
+# Measurements filtered: 4
+Percentage filtered: 0.36
+=============== ZEROGATE ===============
+# Measurements: 1096
+# Remaining measurements: 1075
+# Measurements filtered: 21
+Percentage filtered: 1.92
+============= MASTERCURVES =============
+# Measurements: 1075
+# Remaining measurements: 914
+# Measurements filtered: 161
+Percentage filtered: 14.98
+============== RMSMISFIT ===============
+# Measurements: 914
+# Remaining measurements: 909
+# Measurements filtered: 5
+Percentage filtered: 0.55
+=========== CHAGAP - COARSE ============
+# Measurements: 909
+# Remaining measurements: 909
+# Measurements filtered: 0
+Percentage filtered: 0.00
+============ CHAGAP - DENSE ============
+# Measurements: 909
+# Remaining measurements: 896
+# Measurements filtered: 13
+Percentage filtered: 1.43
+============= CHAGAP - REV =============
+# Measurements: 896
+# Remaining measurements: 896
+# Measurements filtered: 0
+Percentage filtered: 0.00
+=============== SUMMARY ================
+Number of measurements: 1420
+Number of remaining measurements: 896
+Number of filtered measurements: 524
+Percentage filtered: 36.90
